@@ -5,6 +5,8 @@ The collection holds various models of global worldwide ancestry (with the numbe
 
 > **Note:** It is highly advisable to consult manuals and user guides to learn best practices of using each of aforementioned programs.
 
+- **iAdmix** is a program to estimate individual admixture proportions from DNA sequencing experiments (exome sequencing, targeted sequencing, low coverage whole-genome sequencing or genotyping
+- **SNPweights** is a software package for inferring genome-wide genetic ancestry using SNP weights precomputed from large external reference panels 
 
 
 

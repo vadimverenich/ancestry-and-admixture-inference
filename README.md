@@ -6,7 +6,8 @@ The collection holds various models of global worldwide ancestry (with the numbe
 > **Note:** It is highly advisable to consult manuals and user guides to learn best practices of using each of aforementioned programs.
 
 - **iAdmix** is a program to estimate individual admixture proportions from DNA sequencing experiments (exome sequencing, targeted sequencing, low coverage whole-genome sequencing or genotyping
-- **SNPweights** is a software package for inferring genome-wide genetic ancestry using SNP weights precomputed from large external reference panels 
+- **SNPweights** is a software package for inferring genome-wide genetic ancestry using SNP weights precomputed from large external reference panels
+- **fastNGSadmix** is a tool to fast and reliably estimate admixture proportions and perform PCA from next generation sequencing data of a single individual. The analyses are based on genotype likelihoods of the input sample (in BEAGLE) and a set of predefined reference populations. The method has high accuracy, even at low sequencing depth and corrects for the biases introduced by small reference populations.
 
 
 

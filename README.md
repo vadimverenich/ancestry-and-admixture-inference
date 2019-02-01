@@ -1,7 +1,7 @@
 # Global ancestry models for worldwide human population
 
 ## Description
-The collection holds various models of global worldwide ancestry (with the number of ancestral components ranging from K=6 up to K=28), which can be easily integrated into separate project as pre-maid reference panels for 2 programs: **[iAdmix](https://bansal-lab.github.io/software/iadmix.html), [SNPWEIGHTS](https://www.hsph.harvard.edu/alkes-price/software/)**
+The collection holds various models of global worldwide ancestry (with the number of ancestral components ranging from K=6 up to K=28), which can be easily integrated into separate project as pre-maid reference panels for 3 programs: **[iAdmix](https://bansal-lab.github.io/software/iadmix.html), [SNPWEIGHTS](https://www.hsph.harvard.edu/alkes-price/software/), [fastNGSadmix](http://www.popgen.dk/software/index.php/FastNGSadmix)**
 
 > **Note:** It is highly advisable to consult manuals and user guides to learn best practices of using each of aforementioned programs.
 

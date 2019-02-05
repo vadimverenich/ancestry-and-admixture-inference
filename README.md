@@ -1,4 +1,4 @@
-# Global ancestry models for worldwide human population
+# Global ancestry models for worldwide human populations
 
 ## Description
 The collection holds various models of global worldwide ancestry (with the number of ancestral components ranging from K=6 up to K=28), which can be easily integrated into separate project as pre-maid reference panels for *4* standard programs for : **[iAdmix](https://bansal-lab.github.io/software/iadmix.html), [SNPWEIGHTS](https://www.hsph.harvard.edu/alkes-price/software/), [fastNGSadmix](http://www.popgen.dk/software/index.php/FastNGSadmix) and [ancestry](https://bitbucket.org/joepickrell/ancestry)**
@@ -15,5 +15,4 @@ The collection holds various models of global worldwide ancestry (with the numbe
 
 ------------------------------------
 All calculations were performed on The High Performance Computing Center's clusters ![alt txt](https://etais.ee/images/logo.png) 
-The work was carried out in the High Performance Computing Center of University of Tartu.
-![alt txt](https://hpc.ut.ee/wp-content/uploads/2018/01/HPC_logo_horisontaal_eng_must.png)
+The work was carried out in the High Performance Computing Center of University of Tartu. ![alt txt](https://hpc.ut.ee/wp-content/uploads/2018/01/HPC_logo_horisontaal_eng_must.png)

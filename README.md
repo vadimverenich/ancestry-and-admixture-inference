@@ -14,5 +14,7 @@ The collection holds various models of global worldwide ancestry (with the numbe
 
 
 ------------------------------------
-All calculations were performed on The High Performance Computing Center's clusters ![alt txt](https://etais.ee/images/logo.png) 
+All calculations were performed on The High Performance Computing Center's clusters 
+![alt txt](https://etais.ee/images/logo.png) 
+
 The work was carried out in the High Performance Computing Center of University of Tartu. 

@@ -15,5 +15,4 @@ The collection holds various models of global worldwide ancestry (with the numbe
 
 ------------------------------------
 All calculations were performed on The High Performance Computing Center's clusters (University of Tartu) 
-![alt text][logo]
-[logo]: https://hpc.ut.ee/wp-content/uploads/2018/01/HPC_logo_horisontaal_eng_valge.png "The High Performance Computing Center"
+![alt txt] (https://hpc.ut.ee/wp-content/uploads/2018/01/HPC_logo_horisontaal_eng_valge.png)
